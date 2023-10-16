@@ -1,0 +1,2 @@
+# patrones
+Clase de patrones
